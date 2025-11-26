@@ -1,0 +1,4 @@
+This HTML file creates a simple webpage with a centered main heading and two paragraphs.
+The <style> section in the <head> sets the heading to be centered and the paragraph text color to dark gray.
+Inside the <body>, the <h1> displays the welcome message, and the two <p> tags show short descriptive text.
+Overall, it demonstrates basic HTML structure and simple CSS styling.
